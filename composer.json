@@ -11,12 +11,12 @@
     "payment",
     "transfer"
   ],
-  "homepage": "https://github.com/ticketswap/omnipay-przelewy24",
+  "homepage": "https://github.com/piksera/omnipay-przelewy24",
   "license": "MIT",
   "authors": [
     {
       "name": "TicketSwap",
-      "email": "info@ticketswap.com"
+      "email": "info@piksera.com"
     }
   ],
   "autoload": {

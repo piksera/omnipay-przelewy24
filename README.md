@@ -15,7 +15,7 @@ For more information about the Przelewy24 API, take a look at the [manual](http:
 This gateway can be installed with [Composer](https://getcomposer.org/):
 
 ``` bash
-$ composer require ticketswap/omnipay-przelewy24
+$ composer require piksera/omnipay-przelewy24
 ```
 
 ## Usage
@@ -88,7 +88,7 @@ If you want to keep up to date with release anouncements, discuss ideas for the 
 or ask more detailed questions, there is also a [mailing list](https://groups.google.com/forum/#!forum/omnipay) which
 you can subscribe to.
 
-If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/ticketswap/omnipay-przelewy24/issues),
+If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/piksera/omnipay-przelewy24/issues),
 or better yet, fork the library and submit a pull request.
 
 ## Testing
@@ -99,11 +99,11 @@ $ composer test
 
 ## Security
 
-If you discover any security related issues, please email info@ticketswap.com instead of using the issue tracker.
+If you discover any security related issues, please email info@piksera.com instead of using the issue tracker.
 
 ## Credits
 
-- [TicketSwap](https://github.com/ticketswap)
+- [TicketSwap](https://github.com/piksera)
 
 ## License
 
